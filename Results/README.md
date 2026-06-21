@@ -10,6 +10,7 @@ This folder contains experimental waveforms and validation results obtained from
 - Load transient response
 - Grid synchronization results
 - PLL performance measurements
+- Closed-loop verification
 
 ## Measurements
 
