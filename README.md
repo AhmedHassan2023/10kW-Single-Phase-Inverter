@@ -46,16 +46,29 @@ This project presents the design and implementation of a 10 kW single-phase full
 
 
 ## Simulation
+ Alpha_Beta
 ![alpha_beta](Simulation/alpha-beta.png)
+ Inverter and grid voltage
 ![inverter-grid-voltage](Simulation/inverter-grid%20voltage.png)
+ Dwell times
 ![times](Simulation/ta,tb,to.png)
 
 
 
 ## Experimental Results
+ Sin Genrated
+![sin](Results/10-%20sin%20generated.png)
 
-(Add oscilloscope screenshots here)
+ Dac output for alpha-beta
+![dac](Results/08-%20alpha_Beta_Vd.png)
 
+ Dac output for theta generated from pll
+![theta_pll](Results/09-%20theta_pll%20generation.png)
+
+## Technologies Used
+- MATLAB/Simulink
+- STM32
+- Embedded C
 - Altium Designer
 - SVPWM
 - Control Systems
