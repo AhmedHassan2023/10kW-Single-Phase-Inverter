@@ -67,8 +67,11 @@ This project presents the design and implementation of a 10 kW single-phase full
 
 ## Technologies Used
 - MATLAB/Simulink
+- Plecs
 - STM32
-- Embedded C
+- Texas Instruments™ C2000 DSP
+- Embedded System
 - Altium Designer
+- Kicad
 - SVPWM
 - Control Systems
