@@ -32,15 +32,19 @@ This project presents the design and implementation of a 10 kW single-phase full
 - Results
 
 ## Hardware
-## Control Board
+ Control Board
 ![Industrial Control Board](Hardware/01-%20Control/04_Industrial_Version/industrial_control_5.png)
 ![Industrial Control Board](Hardware/01-%20Control/04_Industrial_Version/٢٠٢٦٠٤٠٧_١٢٥٨٤٢.jpg)
 
-## Power Board
-![Driver Board](Hardware/03- Driver Circuit for Industrial Inverter/01_Hcpl3120_opto/٢٠٢٦٠٤٠٧_١٢٥٩٢٠.jpg)
+ Power Board
+![Industrial Power Board](Hardware/02-%20Power/03_Industrial_Version/industrial_power_3.png)
+![Industrial Power Board](Hardware/02-%20Power/03_Industrial_Version/٢٠٢٦٠٤٠٢_١٥١٦١٠.jpg)
 
-## Driver Board
-![Power Board]()
+ Driver Board
+![Driver Board](Hardware/03-%20Driver%20Circuit%20for%20Industrial%20Inverter/01_Hcpl3120_opto/Industrial_driver_v1_3.png)
+![Driver Board](Hardware/03-%20Driver%20Circuit%20for%20Industrial%20Inverter/01_Hcpl3120_opto/٢٠٢٦٠٤٠٧_١٢٥٩٢٠.jpg)
+
+
 ## Simulation
 
 (Add simulation screenshots here)
