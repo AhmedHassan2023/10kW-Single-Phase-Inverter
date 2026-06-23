@@ -46,8 +46,11 @@ This project presents the design and implementation of a 10 kW single-phase full
 
 
 ## Simulation
+![alpha_beta](Simulation/alpha-beta.png)
+![inverter-grid-voltage](Simulation/inverter-grid%20voltage.png)
+![times](Simulation/ta,tb,to.png)
 
-(Add simulation screenshots here)
+
 
 ## Experimental Results
 
